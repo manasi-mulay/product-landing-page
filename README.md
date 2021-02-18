@@ -1,6 +1,6 @@
 # Product Landing Page
 
-| Sr.no. | Product Name |
+| Product No. | Product Name |
 | - | - |
 1 | Netfilx |
 2 | Starbucks |
